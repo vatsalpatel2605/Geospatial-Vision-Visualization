@@ -1,7 +1,3 @@
-#Vatsal Patel (A20458061)
-#Quick Savajiyani (A20451378)
-#Aditi Desai 
-
 Replace # Path = "sample_drive" (If necessary)
 We are storing all the .jpg image files in an array. 
 Resizing all the images to a fixed resolution of 500 x 500 as all the images are not of same size and shape. 
